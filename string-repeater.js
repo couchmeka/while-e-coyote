@@ -5,6 +5,6 @@ let str1 = input;
 
 while(input.length <= 10) {
     
-    input += str1;
-    console.log(input)
+    input = input + str1;
+    console.log(input);
 }
