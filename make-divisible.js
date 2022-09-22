@@ -7,7 +7,6 @@ input2 = Number(prompt("please enter another number: "));
 
 while (input1 % input2 !==0)
 {
-    
     console.log(input1++);
 }
 
